@@ -1,0 +1,98 @@
+
+body{
+    background-color: #FEEA98;
+
+}
+.login{
+ background-color: #FFFFFF;
+    width: 950px;
+    height: 550px;
+    margin-left: 14%;
+    margin-top: 2%;
+    background-repeat: no-repeat;
+    }
+ .sign p{ 
+    margin-left: 55%;
+    padding-top: 3%;
+  
+   }
+ .sign{
+
+ }
+
+ .sign h1{
+  margin-left: 2%;
+  
+ }
+.cont h1{
+    /* margin-top: 5%; */
+   
+}   
+
+.form{
+    margin-left: 5%;
+    
+}
+.form2{
+    margin-left: 5%;
+    
+}
+.form2 h6{
+   
+}
+#password{
+    width: 250px;
+    height: 25px;
+
+}
+#youremail{
+    width: 250px;
+    height: 25px;
+}
+.form2 h5{
+    margin-left: 18%;
+    margin-top: -4%;
+
+}
+.bt{
+    width: 250px;
+  background-color: #19A0A6;
+    /* border-radius: 500px; */
+    margin-left: 5%;
+    height: 40px;
+}
+.icons{
+  margin-top: -10%;
+  margin-left: 10%;
+  
+  
+   }
+ 
+  .line{
+    margin-left: 6%;
+
+  }
+ 
+  .Image{
+    margin-top: -40%;
+    margin-left: 37%;
+  }
+  .facebook{
+
+  }
+  .linked{
+    margin-left: 5%;
+    margin-top: -2%;
+  }
+  .google{
+    margin-left: 10%;
+    margin-top: -2.5%;
+
+  }
+  .chec{
+display: flex;
+margin-top: -1%;
+  }
+  
+  
+
